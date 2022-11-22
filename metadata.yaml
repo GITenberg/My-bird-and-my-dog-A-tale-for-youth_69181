@@ -1,5 +1,8 @@
 _repo: My-bird-and-my-dog-A-tale-for-youth_69181
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69181-h/images/cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69181#My-bird-and-my-dog-A-tale-for-youth
 gutenberg_issued: '2022-10-19'
 identifiers:
   gutenberg: '69181'
